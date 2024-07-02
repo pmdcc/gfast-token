@@ -13,8 +13,8 @@ import (
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/net/ghttp"
 	"github.com/gogf/gf/v2/util/grand"
-	"github.com/tiger1103/gfast-token/adapter"
-	"github.com/tiger1103/gfast-token/gftoken"
+	"github.com/pmdcc/gfast-token/adapter"
+	"github.com/pmdcc/gfast-token/gftoken"
 	"testing"
 )
 
